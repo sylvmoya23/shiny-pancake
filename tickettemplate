@@ -1,0 +1,4 @@
+{
+	"response_type": "in_channel",
+	"text": "Customer ID:\nIssue:\nApprox. date/time:\nDevice type:\nCurrent Status:"
+}
